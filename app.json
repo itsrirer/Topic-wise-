@@ -2,9 +2,9 @@
   "name": "auto-topic-forward-bot",
   "description": "Auto Topic Forward Bot",
   "env": {
-    "API_ID": {"required": true},
-    "API_HASH": {"required": true},
-    "BOT_TOKEN": {"required": true},
-    "OWNER_ID": {"required": true}
+    "API_ID": {"29544631": true},
+    "API_HASH": {"e37dea5444dd48fd626d9a91fa13487b": true},
+    "BOT_TOKEN": {"8229369892:AAHnasY51x9iwmAlQMd9g6e3LbIVdwBb5mY": true},
+    "OWNER_ID": {"6127154811": true}
   }
 }
