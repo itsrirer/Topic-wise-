@@ -1,0 +1,10 @@
+{
+  "name": "auto-topic-forward-bot",
+  "description": "Auto Topic Forward Bot",
+  "env": {
+    "API_ID": {"required": true},
+    "API_HASH": {"required": true},
+    "BOT_TOKEN": {"required": true},
+    "OWNER_ID": {"required": true}
+  }
+}
